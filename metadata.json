@@ -1,0 +1,6 @@
+{
+  "name": "Propuesta Analítica LP-2026-01 — Mercados La Pradera",
+  "description": "Presentación ejecutiva de 15 minutos para la Junta Directiva de Mercados La Pradera S.A.S. (Licitación LP-2026-01): 4 modelos de aprendizaje supervisado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
